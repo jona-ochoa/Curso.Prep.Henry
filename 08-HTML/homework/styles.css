@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(9, 9, 114, 0.842);
+    color: rgba(255, 255, 255, 0.74);
+}
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: aqua;
+    padding: 50px;
+    border: solid 5px black;
+}
+h1 {
+    color: rgba(225, 220, 248, 0.753);
+}
+img {
+    width: 400px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    
+}
+.columns{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+h6.skills{
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 900;
+}
+.columns p {
+    font-size: 20px;
+}
+.footer {
+    width: 1200px;
+    font-size: 25px;
+}
